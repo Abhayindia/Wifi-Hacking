@@ -181,18 +181,7 @@ def intro():
         wire()
     elif var == 0 :
         cmd = os.system("clear")
-        print("""
-Hi.
-My Name is 4nk17, A Ethical Hacker,Bug Bounty Hunter,Currently Working as Cyber Security Researcher.
-you can find on Instagram
-
-https://www.instagram.com/ankit_kanojiya57/
-
-Contack me +919768367597
-
-Feel Free to Contact,
-
-""")
+        
         quit()
     elif var == 00:
         exit()
